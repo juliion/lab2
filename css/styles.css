@@ -1,0 +1,49 @@
+form {
+    display: flex;
+    flex-direction: column;
+    width: 20%;
+    min-width: 200px;
+    margin: 50px;
+}
+
+#form-results {
+    margin: 70px 50px;
+}
+
+#form-div {
+    display: flex;
+}
+
+label {
+    margin: 15px 0 5px 0;
+}
+
+input {
+    height: 25px;
+}
+
+#submit-btn {
+    margin: 20px 0;
+    padding: 5px 0; 
+}
+
+#color-picker {
+    width: 200px;
+    margin-bottom: 20px;
+}
+
+#table {
+    border-collapse: collapse;
+}
+
+#table, th, td {
+    border: 1px solid;
+}
+
+th, td {
+    padding: 15px;
+}
+
+#color-table {
+    margin: 50px;
+}
